@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Monica Crawford, PhD Student"
+title: "Monica Crawford - PhD Candidate"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me!
+Welcome to my website.
