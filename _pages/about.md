@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Monica Crawford - PhD Candidate"
+title: "Monica Crawford - PhD Candidate, University of Minnesota"
 author_profile: true
 redirect_from: 
   - /about/
