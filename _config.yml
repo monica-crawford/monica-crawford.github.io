@@ -13,14 +13,14 @@ title                    : "Monica Crawford"
 title_separator          : "-"
 name                     : &name "Monica Crawford"
 description              : &description "This is my site"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://monica-crawford.github.io" 
+url                      : https://monica-crawford.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "monica-crawford/monica-crawford.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author: Monica Crawford
+author:
   # Biographic information
   avatar           : "MCHeadshot.jpg"
   name             : "Monica Crawford"
