@@ -11,10 +11,10 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Monica Crawford"
 title_separator          : "-"
-name                     : &name "Monica Crawford"
-description              : &description "This is my site"
-url                      : https://monica-crawford.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : "Monica Crawford"
+description              : "PhD Candidate at University of Minnesota researching media and sport across digital platforms "
+url                      : "https://monica-crawford.github.io"
+baseurl                  : 
 repository               : "monica-crawford/monica-crawford.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
