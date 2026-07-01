@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Monica Crawford"
   pronouns         : "she/her"  
-  bio              : "PhD Student, women's sports nerd, recovering picky eater"
+  bio              : "PhD Candidate, women's sports nerd, recovering picky eater"
   location         : "St. Paul, MN"
   employer         : "University of Minnesota"
   uri              : # URL
@@ -34,14 +34,6 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=izHwAl0AAAAJ&hl=en&oi=ao"
   orcid            : "http://orcid.org/0000-0002-2346-5914"
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" ‪@mlcrawford.bsky.social‬
